@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="LightingUnitConfigurationHandler">
+    <Position X="5.5" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>CFzJAAAKQKAIBAAAIABAAIAAAAACAAAQQAACEABBCAQ=</HashCode>
+      <FileName>Assets\APP_POC\Scripts\Handlers\LightingUnitConfigurationHandler.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="converter" />
+      <Field Name="observer" />
+      <Field Name="bulb" />
+      <Property Name="PlaneTypes1" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SpatialMeshConversionHandler">
+    <Position X="0.5" Y="5.25" Width="3.75" />
+    <NestedTypes>
+      <Delegate Name="SpatialMeshConversionHandler.EventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\APP_POC\Scripts\Handlers\SpatialMeshConversionHandler.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IQBIAAQAASQAAEUACQCMAAAABCAAQAQARAAQEAAgAAA=</HashCode>
+      <FileName>Assets\APP_POC\Scripts\Handlers\SpatialMeshConversionHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpatialObserverHandler">
+    <Position X="11.25" Y="5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAACCAAAAAAAAEAYAAAIAAAAAAGAAUAgAEAAAA=</HashCode>
+      <FileName>Assets\APP_POC\Scripts\Handlers\SpatialObserverHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrototypeManager">
+    <Position X="15" Y="1.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>IBAjABCAQKAQAAAIIAAAMEEAEAQAgAAAAAgCACAAAAA=</HashCode>
+      <FileName>Assets\APP_POC\Scripts\PrototypeManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="BrightnessPreference" />
+    </ShowAsAssociation>
+  </Class>
+  <Struct Name="LightingUnit">
+    <Position X="9" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAIgIAAAAAAAAAAAAIAAAAAQAAAAEEAQAAABAAAA=</HashCode>
+      <FileName>Assets\APP_POC\Scripts\Structs\LightingUnit.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="BrightnessPreference">
+    <Position X="20.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAgAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Assets\APP_POC\Scripts\Enums\BrightnessPreference.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PlaneTypes">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAQAAAAAAAAAQAAAAAAEAAABA=</HashCode>
+      <FileName>Assets\APP_POC\Scripts\Enums\PlaneTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

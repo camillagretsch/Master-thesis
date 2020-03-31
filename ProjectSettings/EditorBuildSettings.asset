@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/APP_POC/Scenes/PoC2_SpatialUnderstanding.unity
+    guid: 4898fdf604665714a9161c928777930d
+  - enabled: 0
+    path: Assets/APP_POC/Scenes/PoC4_PowerOutletPlacement.unity
+    guid: d4b6cbc54c8500c4ab7fb2e0039591db
+  - enabled: 0
+    path: Assets/APP_POC/Scenes/PoC5_LightVisualization.unity
+    guid: 0100df47acb943d4e984461bbda67508
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/APP_POC/Scenes/PoC6_LightingRecommendation.unity
+    guid: 2dc0388e14f550441ad4e151f0cd3d78
+  - enabled: 1
+    path: Assets/APP_POC/Scenes/Prototype_ALMR.unity
+    guid: 3b963a959d8afa7449467bc6c52e2457
+  - enabled: 0
+    path: Assets/APP_POC/Scenes/PoC3_RoomVolumeCalculation.unity
+    guid: 99e55eb015004994db43914129ca8ae8
+  m_configObjects: {}

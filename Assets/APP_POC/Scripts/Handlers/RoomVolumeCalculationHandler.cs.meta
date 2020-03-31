@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 86383dca2b8650641865ee3d54fe1cfa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - surfacePlanePrefab: {fileID: 5714989094007664779, guid: 47cba547e6555ca4bb4f76ffa007b0b0,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

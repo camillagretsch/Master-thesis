@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/APP_POC/Scenes/Prototype_ALMR.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
